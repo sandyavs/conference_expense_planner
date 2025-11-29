@@ -18,6 +18,9 @@ By completing this project, I was able to:
 - State Management with Redux Toolkit: I used Redux slices to manage the state of venue selection, add-ons, meals, and pricing.
 - Cost Breakdown Display: Shows selected items in a pop-up table format with subtotals and a final total cost.
 
+## Deployment
+The application is deployed using GitHub Pages, providing a simple and reliable way to host static sites. Here's the link to the application: [https://sandyavs.github.io/e-plantShopping/](https://sandyavs.github.io/conference_expense_planner/)
+
 ## Results
 
 ### Landing Page
